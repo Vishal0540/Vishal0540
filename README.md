@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vishal Longani
 - 👀 I’m Data Enthusiast
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data and automation project
 - 📫 How to reach me ...
 -  vishallongani@gmail.com
