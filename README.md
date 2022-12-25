@@ -2,7 +2,7 @@
 - 👀 I’m Data Enthusiast
 - 💞️ I’m looking to collaborate on data and automation project
 - 📫 How to reach me ...
--  vishallongani@gmail.com
+-  longanivishal10500@gmail.com
 
 <!---
 Vishal0540/Vishal0540 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
