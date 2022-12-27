@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/vishal-longani" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-160-461814.png" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vishu_coder" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629415-3032408.png" alt="https://www.hackerrank.com/vishu_coder" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishu_coder" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629415-3032408.png" alt="https://www.hackerrank.com/vishu_coder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
